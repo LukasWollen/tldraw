@@ -8,3 +8,4 @@ This is a scaffold project integrating [tldraw](https://tldraw.dev) with an AI a
 - `npm run build` – build the client
 
 Create a `.env` file from `.env.example` with your `OPENAI_API_KEY` before running.
+Run `npm install` to install dependencies including `ts-node` which is used by the dev server.
